@@ -1,6 +1,6 @@
 # reverse-engineers-dream-matrix-math
 
-MatrixMath delphi library to performs common matrix arithmatic
+MatrixMath delphi library to performs common matrix arithmatic.
 
 #### Written in May 2011.
 
